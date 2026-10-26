@@ -4,6 +4,16 @@
 
 This app was created to easily open applications using simple key combinations.
 
+## Building
+
+To build the project from source, you will need **MSYS2 MINGW64** with the appropriate MinGW-w64 toolchain installed.
+
+Open your MSYS2 MINGW64 terminal and run the following command to compile the binary:
+
+```
+bash build.sh
+```
+
 ## Config
 
 The config file is named `hkl.json` and should be placed in the root directory. It uses the following format:
