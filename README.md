@@ -1,4 +1,4 @@
-# HKL
+# HKL (Windows app)
 
 ### Introduction
 
