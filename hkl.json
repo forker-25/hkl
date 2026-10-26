@@ -1,0 +1,12 @@
+{
+  "quit": "ctrl+alt+q",
+  "items": [
+    {
+      "exe": "C:\\example.exe",
+      "bind": "ctrl+=",
+      "args": "",
+      "dir": "",
+      "mutex": ""
+    },
+  ]
+}
